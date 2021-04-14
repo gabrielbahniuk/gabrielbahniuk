@@ -2,5 +2,5 @@
 
 - :airplane: From Brazil to Germany.
 - :office: Working at T-Systems International GmbH.
-- :books: Learning about DevOps and improving JavaScript skills.
+- :books: Interested in Javascript and DevOps.
 - :email: hi@thegabriel.dev
