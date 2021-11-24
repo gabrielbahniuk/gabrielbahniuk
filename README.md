@@ -1,6 +1,1 @@
-### Hi there 👋
-
-- :airplane: From Brazil to Germany.
-- :office: Working at T-Systems International GmbH.
-- :books: Interested in Javascript and DevOps.
-- :email: hi@thegabriel.dev
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gabrielbahniuk/gabrielbahniuk/blob/master/devcard.svg" width="400" alt="Gabriel Bahniuk's Dev Card"/></a>
